@@ -1,0 +1,12 @@
+H:\JSONHandling\bin\Debug\netcoreapp3.1\JSONHandling.exe
+H:\JSONHandling\bin\Debug\netcoreapp3.1\JSONHandling.deps.json
+H:\JSONHandling\bin\Debug\netcoreapp3.1\JSONHandling.runtimeconfig.json
+H:\JSONHandling\bin\Debug\netcoreapp3.1\JSONHandling.runtimeconfig.dev.json
+H:\JSONHandling\bin\Debug\netcoreapp3.1\JSONHandling.dll
+H:\JSONHandling\bin\Debug\netcoreapp3.1\JSONHandling.pdb
+H:\JSONHandling\obj\Debug\netcoreapp3.1\JSONHandling.AssemblyInfoInputs.cache
+H:\JSONHandling\obj\Debug\netcoreapp3.1\JSONHandling.AssemblyInfo.cs
+H:\JSONHandling\obj\Debug\netcoreapp3.1\JSONHandling.csproj.CoreCompileInputs.cache
+H:\JSONHandling\obj\Debug\netcoreapp3.1\JSONHandling.dll
+H:\JSONHandling\obj\Debug\netcoreapp3.1\JSONHandling.pdb
+H:\JSONHandling\obj\Debug\netcoreapp3.1\JSONHandling.genruntimeconfig.cache
